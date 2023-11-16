@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Gamer Group</h1>
+    <h1>Neural Net Poker</h1>
     <h4>Senior Design Group</h4>
 </div>
 
@@ -22,6 +22,12 @@
 
 <div align="left">
     <div>
+        <a href="https://github.com/JMcknight75" target="_blank">
+            Justin McKnight:
+        </a>
+        Developer & Team Lead
+    </div>
+    <div>
         <a href="https://github.com/Jxk0be" target="_blank">
             Jake Shoffner:
         </a>
@@ -41,7 +47,7 @@
     </div>
     <div>
         <a href="https://github.com/JMcknight75" target="_blank">
-            Justin McKnight:
+            Colin Canonaco:
         </a>
         Developer
     </div>
