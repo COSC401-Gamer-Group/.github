@@ -46,7 +46,7 @@
         Developer
     </div>
     <div>
-        <a href="https://github.com/JMcknight75" target="_blank">
+        <a href="https://github.com/ColinC5" target="_blank">
             Colin Canonaco:
         </a>
         Developer
