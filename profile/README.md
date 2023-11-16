@@ -12,7 +12,9 @@
 
 ###
 
-<p align="left">We are a Senior Design group for COSC401/402 at the University of Tennessee, Knoxville.</p>
+<p align="left">
+We are a Senior Design group for COSC401/402 at the University of Tennessee, Knoxville. Our project is to create a neural network based poker bot that can be played against.
+</p>
 
 ###
 
