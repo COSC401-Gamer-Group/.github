@@ -27,31 +27,31 @@ We are a Senior Design group for COSC401/402 at the University of Tennessee, Kno
         <a href="https://github.com/JMcknight75" target="_blank">
             Justin McKnight:
         </a>
-        Developer & Team Lead
+        Back-end & Team Lead
     </div>
     <div>
         <a href="https://github.com/Jxk0be" target="_blank">
             Jake Shoffner:
         </a>
-        Developer
+        Front-end
     </div>
     <div>
         <a href="https://github.com/Brandon-Marth" target="_blank">
             Brandon Marth:
         </a>
-        Developer
+        Front-end
     </div>
     <div>
         <a href="https://github.com/jdixon34-cs340" target="_blank">
             Jared Dixon:
         </a>
-        Developer
+        Back-end
     </div>
     <div>
         <a href="https://github.com/ColinC5" target="_blank">
             Colin Canonaco:
         </a>
-        Developer
+        Back-end
     </div>
 </div>
 
